@@ -1,0 +1,5 @@
+@media (min-width: 1024px) {
+  .lg\:max-w-screen-lg {
+    max-width: 1125px !important;
+  }
+}

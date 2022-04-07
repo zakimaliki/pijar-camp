@@ -1,0 +1,89 @@
+.text-orange-900 {
+  --tw-text-opacity: 1 !important;
+  color: rgba(251, 114, 3, var(--tw-text-opacity)) !important;
+}
+@media (min-width: 768px) {
+  .md\:leading-60px {
+    line-height: 70px !important;
+  }
+}
+@media (min-width: 768px) {
+  .md\:text-54px {
+    font-size: 54px !important;
+  }
+}
+@media (min-width: 768px) {
+  .md\:pt-28 {
+    padding-top: 7rem !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:h-12 {
+    height: 3rem !important;
+  }
+}
+
+.h-12 {
+  height: 3rem;
+}
+
+.leading-9 {
+  line-height: 3.25rem !important;
+}
+
+.bg-black-100 {
+  background-color: rgba(249, 249, 251, var(--tw-bg-opacity)) !important;
+}
+button,
+h3,
+h4,
+h5,
+h6,
+label {
+  font-family: Metropolis, Inter, system-ui, -apple-system, sans-serif;
+}
+h3,
+h4,
+h5,
+h6,
+label {
+  font-weight: 600;
+}
+
+.text-reg {
+  margin-top: 10px !important;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+  .md\:text-4\.5xl {
+    font-size: 2.5rem !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:block {
+    display: block !important;
+  }
+}
+
+.font-bold {
+  font-weight: 700 !important;
+}
+.text-2\.5xl {
+  font-size: 2.5rem !important;
+}
+.styles_bg_blue__g8y_l {
+  background-image: url(https://camp.pijarmahir.id/_next/static/media/bg-blue.cb5a1d2c.svg);
+}
+
+.rounded-full {
+  z-index: 10;
+  border-radius: 9999px;
+}
+
+.bg-blue-darkslate {
+  --tw-bg-opacity: 1;
+  background-color: rgba(30, 76, 163, var(--tw-bg-opacity)) !important;
+}
